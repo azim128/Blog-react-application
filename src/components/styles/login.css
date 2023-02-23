@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  
+}
+.sign-in {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-in p {
+  font-size: 24px;
+  margin: 20px 0px;
+}
+.sign-in-btn {
+  padding: 15px 40px;
+  border-radius: 10px;
+  font-size: 20px;
+  background: aqua;
+  color: #fff;
+}

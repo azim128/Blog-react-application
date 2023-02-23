@@ -1,0 +1,44 @@
+.main-blog {
+  background: #fafafa;
+}
+.row {
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  gap: 10px;
+}
+.col {
+  background-color: aqua;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 20px;
+}
+.col h1 {
+  font-size: 24px;
+  font-style: italic;
+  text-transform: capitalize;
+  color: #fff;
+  border-bottom: 2px solid salmon;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+.col p {
+  font-size: 20px;
+  color: #fff;
+}
+.col h5 {
+  font-size: 12px;
+  color: #fff;
+  margin-top: 20px;
+}
+.material-icons-two-tone{
+  background: red;
+  font-size: 1.6rem;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 10px;
+}

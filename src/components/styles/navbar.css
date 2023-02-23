@@ -1,0 +1,12 @@
+.mainnav {
+  background: #234234;
+  text-align: center;
+  padding: 20px;
+}
+.nav-com {
+  font-size: 25px;
+  margin: 5px;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
